@@ -1,3 +1,3 @@
 ## Projeto para a disciplina de python
 
-CRUD desemvolvido para simular um sistema de escola
+CRUD desenvolvido para simular um sistema de administração de escola
